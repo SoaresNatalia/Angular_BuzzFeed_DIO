@@ -19,6 +19,8 @@ export class QuizComponent implements OnInit {
   questionIndex :number = 0
   questionMaxIndex :number = 0
   finished :boolean = false
+  img :string =''
+
 
   //Pegando Informações do Json sobre o Questionário
   ngOnInit(): void {
@@ -60,6 +62,8 @@ export class QuizComponent implements OnInit {
 
       // 'finalResult' pode ser do tipo ANY, por isso temos que dizer que ele vai se comportar como uma chave do tipo Results do JSON, ou seja, que ele é "A" ou "B"
       this.repostaSelecionada = quiz_questions.results[finalResult as keyof typeof quiz_questions.results]
+
+      this.img = quiz_questions.image[finalResult as keyof typeof quiz_questions.results]
 
     }
   }
