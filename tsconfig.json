@@ -1,8 +1,14 @@
 /* To learn more about this file see: https://angular.io/config/tsconfig. */
+
+/* Adicionei duas propriedades no "compilerOptions" para que possa ler, resolver e importar arquivo Json
+  "resolveJsonModule": true,
+  "allowSyntheticDefaultImports": true */
 {
   "compileOnSave": false,
   "compilerOptions": {
     "outDir": "./dist/out-tsc",
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "noImplicitOverride": true,
