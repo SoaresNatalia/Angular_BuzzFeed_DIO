@@ -7,7 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:buzzfeed-projeto": "node dist/buzzfeed-projeto/server/server.mjs"
+    "serve:ssr:buzzfeed-projeto": "node dist/buzzfeed-projeto/server/server.mjs",
+    "deploy:ghdocs": "ng build --configuration production --output-path docs --base-href /angular_buzzfeed_PercyJackson/"
   },
   "private": true,
   "dependencies": {
