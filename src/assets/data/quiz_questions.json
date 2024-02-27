@@ -23,7 +23,7 @@
         {"id": 2, "name":"Pescar em Alto Mar", "alias":"B"},
         {"id": 3, "name":"Cultivar uma Horta", "alias":"C"},
         {"id": 4, "name":"Participar de uma Luta", "alias":"D"},
-        {"id": 5, "name":"Planejar uma Casa", "alias":"E"},
+        {"id": 5, "name":"Estudar com um Especialista", "alias":"E"},
         {"id": 6, "name":"Assistir o nascer do Sol", "alias":"F"},
         {"id": 7, "name":"Construir Robôs", "alias":"G"},
         {"id": 8, "name":"Comprar Roupas", "alias":"H"}
@@ -67,20 +67,20 @@
         {"id": 4, "name":"Forte", "alias":"D"},
         {"id": 5, "name":"Inteligente", "alias":"E"},
         {"id": 6, "name":"Alegre", "alias":"F"},
-        {"id": 7, "name":"Habilidoso", "alias":"G"},
+        {"id": 7, "name":"Criativo", "alias":"G"},
         {"id": 8, "name":"Bonito", "alias":"H"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um Semideus(a) filho(a) de Zeus, ficaria no Chalé 1 do Acampamento Meio-Sangue",
-    "B": "Você muito provavelmente seria um Semideus(a) filho(a) de Poseidon, ficaria no Chalé 3 do Acampamento Meio-Sangue",
-    "C": "Você muito provavelmente seria um Semideus(a) filho(a) de Deméter, ficaria no Chalé 4 do Acampamento Meio-Sangue",
-    "D": "Você muito provavelmente seria um Semideus(a) filho(a) de Ares, ficaria no Chalé 5 do Acampamento Meio-Sangue",
-    "E": "Você muito provavelmente seria um Semideus(a) filho(a) de Atena, ficaria no Chalé 6 do Acampamento Meio-Sangue",
-    "F": "Você muito provavelmente seria um Semideus(a) filho(a) de Apolo, ficaria no Chalé 7 do Acampamento Meio-Sangue",
-    "G": "Você muito provavelmente seria um Semideus(a) filho(a) de Hefesto, ficaria no Chalé 9 do Acampamento Meio-Sangue",
-    "H": "Você muito provavelmente seria um Semideus(a) filho(a) de Afrodite, ficaria no Chalé 10 do Acampamento Meio-Sangue"
+    "A": "Você muito provavelmente seria um(a) Semideus(a) filho(a) de Zeus, ficaria no Chalé 1 do Acampamento Meio-Sangue.  Você seria um(a) Semideus(a) Imponente, com uma presença forte, adoraria uma aventura principalmente se envolver altura, mas poderia ser autoritário.",
+    "B": "Você muito provavelmente seria um(a) Semideus(a) filho(a) de Poseidon, ficaria no Chalé 3 do Acampamento Meio-Sangue.  Você seria um(a) Semideus(a) Calmo, sempre querendo aventuras envolvendo águas, seria incontrolável como o Mar.",
+    "C": "Você muito provavelmente seria um(a) Semideus(a) filho(a) de Deméter, ficaria no Chalé 4 do Acampamento Meio-Sangue.  Você seria um(a) Semideus(a) Comilão, protegeria a natureza a qualquer custo, gostaria mais de plantas do que de pessoas.",
+    "D": "Você muito provavelmente seria um(a) Semideus(a) filho(a) de Ares, ficaria no Chalé 5 do Acampamento Meio-Sangue.  Você seria um(a) Semideus(a) Forte, o melhor em todas as Lutas, teria as melhores armas, mas seria esquentadinho.",
+    "E": "Você muito provavelmente seria um(a) Semideus(a) filho(a) de Atena, ficaria no Chalé 6 do Acampamento Meio-Sangue.  Você seria um(a) Semideus(a) Inteligente, o melhor em criar Estratégias e Planos, sempre com um Livro na mão, mas teria muito medo de Aranhas.",
+    "F": "Você muito provavelmente seria um(a) Semideus(a) filho(a) de Apolo, ficaria no Chalé 7 do Acampamento Meio-Sangue.  Você seria um(a) Semideus(a) Alegre, seria ótimo no Arco e Flecha, estaria sempre cuidando das pessoas, mas poderia ser arrogante.",
+    "G": "Você muito provavelmente seria um(a) Semideus(a) filho(a) de Hefesto, ficaria no Chalé 9 do Acampamento Meio-Sangue.  Você seria um(a) Semideus(a) Criativo, seria como o Engenheiro do acampamento, sempre construindo Robôs, Máquinas e etc, mas não teria habilidades sociais.",
+    "H": "Você muito provavelmente seria um(a) Semideus(a) filho(a) de Afrodite, ficaria no Chalé 10 do Acampamento Meio-Sangue. Você seria um(a) Semideus(a) Bonito(a), seria muito Charmoso(a), com excelentes habilidades sociais, convenceria todos a gostarem de você, mas seria muito vaidoso."
   },
   "image":{
     "A": "assets/imgs/Chale1_Zeus.png",
